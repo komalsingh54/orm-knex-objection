@@ -14,7 +14,7 @@
     "babel-cli": "^6.26.0",
     "eslint": "^4.19.1",
     "eslint-config-rhinogram": "^0.0.9",
-    "knex": "^0.14.6",
+    "knex": "^0.19.5",
     "mysql": "^2.15.0",
     "objection": "^1.1.7",
 
